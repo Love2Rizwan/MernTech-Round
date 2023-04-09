@@ -1,0 +1,23 @@
+.form{
+    height: 33vh;
+    width: 20vw;
+    position: absolute;
+    top: 13rem;
+    left: 46rem;
+   
+}
+
+.btn-primary {
+    color: #ecf3f9fd;
+    background-color: #1a535c;
+    width: 15rem;
+
+}
+p{
+    display: flex;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    font-size: small;
+    color: #feba33;
+
+}
