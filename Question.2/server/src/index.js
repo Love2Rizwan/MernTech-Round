@@ -22,7 +22,7 @@ mongoose
   });
 
 
-  // define route
+  // define routes
   app.use("/" , router)
 
 //   PORT 
